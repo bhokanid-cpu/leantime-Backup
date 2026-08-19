@@ -2,3 +2,6 @@
 mysql_data/
 .colima/
 *.log
+
+# Ignore temporary raw uncompressed image dumps
+userfiles_temp/
